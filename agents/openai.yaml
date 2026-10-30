@@ -1,0 +1,4 @@
+interface:
+  display_name: "Upload bank statements"
+  short_description: "Import bank exports into Tax Reaper with computer use"
+  default_prompt: "Use $upload-bank-statements to export my spending accounts for an exact date range and upload them to Tax Reaper, asking me to log in to my bank."
